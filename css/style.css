@@ -1,0 +1,26 @@
+body {
+    line-height: 1.7;
+}
+
+
+
+img {
+    max-width: 100%;
+    
+}
+article{
+    max-width: 500px;
+    padding: auto;
+    margin: auto;
+}
+
+
+.pic {
+    margin-left: -800px;
+}
+
+.hello {
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue;
+    font-size: 20px;
+}
